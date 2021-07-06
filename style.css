@@ -124,3 +124,13 @@ footer p
     height: 50px;
     width: 70px;
 }
+
+img:hover
+{
+    transform: scale(1.2);
+}
+button:hover
+{
+    transform: scale(1.5);
+}
+
